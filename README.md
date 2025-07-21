@@ -1,16 +1,29 @@
-## Hi there 👋
+# FlipIt Flashcards – Support
 
-<!--
-**FlipIt-Support/flipit-support** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to the support page for **FlipIt Flashcards**, a simple and fun flashcard app to help you memorize faster and smarter.
 
-Here are some ideas to get you started:
+## Contact Support
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you have any issues, suggestions, or feedback, please feel free to contact us:
+
+📧 Email: flipitflashcards@gmail.com
+
+We usually respond within 1–2 business days.
+
+## Frequently Asked Questions
+
+**Q: Do I need an account to use the app?**  
+A: No account is required to use the core features.
+
+**Q: How do I restore purchases?**  
+A: Tap the “Restore Purchases” button in the Subscription screen.
+
+**Q: Why am I seeing ads?**  
+A: Ads help support development. You can remove them with a subscription.
+
+**Q: How do I request a new feature or report a bug?**  
+A: Please contact us at the email above.
+
+---
+
+This app was created with love and learning in mind. Thank you for supporting us!
